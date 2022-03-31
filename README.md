@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on go project
 - 📫 QQ845264178
 
--21年毕业于韶关学院，目前在深圳工作，进行golang后端开发,喜爱golang、rust。非科班生，但想在分布式以及数据存储方面进行深入研究。
+-21年毕业于韶关学院，非科班生，目前在深圳工作。进行golang后端开发,喜爱golang、rust，个人想在分布式以及数据存储方面进行深入研究。
 
 
 <!---
